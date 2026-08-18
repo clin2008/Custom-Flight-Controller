@@ -10,5 +10,4 @@ Components Utilized:
 - Breadboard
 - Jumper Wires
 - ECU (Specs TBD)
-- IMU (Specs TBD)
-
+- IMU (Specs TBD) 
